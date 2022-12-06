@@ -13,9 +13,9 @@ html{
 .main_div{
     width: 100vw;
     height: 100vh;
-    background-color: #f6f6f6;
    display: grid;
    place-items: center;
+   background: linear-gradient(90deg, rgb(245, 132, 132) 0%, rgb(184, 220, 220) 100%); 
 }
 
 .music_container{
@@ -26,6 +26,7 @@ html{
     box-shadow: 0 1.2rem 3rem 0.5rem rgba(0,0,0,0.2);
     padding: 3rem;
     text-align: center;
+    background: linear-gradient(90deg, rgb(255, 65, 65) 0%, rgb(67, 67, 67) 100% )
 }
 
 
